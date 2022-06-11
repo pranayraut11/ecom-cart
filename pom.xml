@@ -47,7 +47,7 @@
     <repositories>
         <repository>
             <id>ecom-group</id>
-            <url>http://localhost:8081/repository/ecom-group/</url>
+            <url>http://dockercompose_sonar_1:8081/repository/ecom-group/</url>
         </repository>
 
     </repositories>
