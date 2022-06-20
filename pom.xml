@@ -15,6 +15,9 @@
     <description>Project for product cart</description>
     <properties>
         <java.version>11</java.version>
+        <sonar.host.url>
+            http://172.20.0.4:9000
+        </sonar.host.url>
     </properties>
     <dependencies>
         <dependency>
