@@ -28,6 +28,7 @@ public class CartImplTest {
         List<Cart> carts = cart.getAll();
         Assertions.assertNotNull(carts);
         Assertions.assertEquals(0,carts.size());
+        Assertions.assertNotNull(carts);
     }
 
 }
