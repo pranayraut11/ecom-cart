@@ -15,11 +15,6 @@
     <description>Project for product cart</description>
     <properties>
         <java.version>11</java.version>
-        <sonar.host.url>
-            http://172.20.0.4:9000
-        </sonar.host.url>
-        <sonar.jdbc.username>admin</sonar.jdbc.username>
-        <sonar.jdbc.password>123</sonar.jdbc.password>
     </properties>
     <dependencies>
         <dependency>
